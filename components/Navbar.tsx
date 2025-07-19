@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import NavItems from "./NavItems";
+import '../app/globals.css'
 
 const Navbar = () => {
   return (
